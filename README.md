@@ -1,0 +1,1 @@
+# viewandpure-in-solidity
